@@ -1,2 +1,2 @@
 # hello-git
-I loke sweet chilli
+read more on bash
